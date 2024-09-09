@@ -1,0 +1,15 @@
+C:\Users\Reha Sree Koneru\Downloads\new\IntegrationTestingSample\RocklogicSample\RocklogicTransactions\bin\Debug\net8.0\RocklogicTransactions.deps.json
+C:\Users\Reha Sree Koneru\Downloads\new\IntegrationTestingSample\RocklogicSample\RocklogicTransactions\bin\Debug\net8.0\RocklogicTransactions.runtimeconfig.json
+C:\Users\Reha Sree Koneru\Downloads\new\IntegrationTestingSample\RocklogicSample\RocklogicTransactions\bin\Debug\net8.0\RocklogicTransactions.dll
+C:\Users\Reha Sree Koneru\Downloads\new\IntegrationTestingSample\RocklogicSample\RocklogicTransactions\bin\Debug\net8.0\RocklogicTransactions.pdb
+C:\Users\Reha Sree Koneru\Downloads\new\IntegrationTestingSample\RocklogicSample\RocklogicTransactions\obj\Debug\net8.0\RocklogicTransactions.csproj.AssemblyReference.cache
+C:\Users\Reha Sree Koneru\Downloads\new\IntegrationTestingSample\RocklogicSample\RocklogicTransactions\obj\Debug\net8.0\RocklogicTransactions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reha Sree Koneru\Downloads\new\IntegrationTestingSample\RocklogicSample\RocklogicTransactions\obj\Debug\net8.0\RocklogicTransactions.AssemblyInfoInputs.cache
+C:\Users\Reha Sree Koneru\Downloads\new\IntegrationTestingSample\RocklogicSample\RocklogicTransactions\obj\Debug\net8.0\RocklogicTransactions.AssemblyInfo.cs
+C:\Users\Reha Sree Koneru\Downloads\new\IntegrationTestingSample\RocklogicSample\RocklogicTransactions\obj\Debug\net8.0\RocklogicTransactions.csproj.CoreCompileInputs.cache
+C:\Users\Reha Sree Koneru\Downloads\new\IntegrationTestingSample\RocklogicSample\RocklogicTransactions\obj\Debug\net8.0\RocklogicTransactions.sourcelink.json
+C:\Users\Reha Sree Koneru\Downloads\new\IntegrationTestingSample\RocklogicSample\RocklogicTransactions\obj\Debug\net8.0\RocklogicTransactions.dll
+C:\Users\Reha Sree Koneru\Downloads\new\IntegrationTestingSample\RocklogicSample\RocklogicTransactions\obj\Debug\net8.0\refint\RocklogicTransactions.dll
+C:\Users\Reha Sree Koneru\Downloads\new\IntegrationTestingSample\RocklogicSample\RocklogicTransactions\obj\Debug\net8.0\RocklogicTransactions.pdb
+C:\Users\Reha Sree Koneru\Downloads\new\IntegrationTestingSample\RocklogicSample\RocklogicTransactions\obj\Debug\net8.0\RocklogicTransactions.genruntimeconfig.cache
+C:\Users\Reha Sree Koneru\Downloads\new\IntegrationTestingSample\RocklogicSample\RocklogicTransactions\obj\Debug\net8.0\ref\RocklogicTransactions.dll
